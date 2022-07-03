@@ -5,6 +5,7 @@ spring:
 server:
   port: 8761
 
+#Not to be self-recorded
 eureka:
   client:
     register-with-eureka: false
